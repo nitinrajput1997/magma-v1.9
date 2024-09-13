@@ -10,8 +10,8 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-docker_registry: "linuxfoundation.jfrog.io/magma-docker/"
+docker_registry: "https://hub.docker.com/u/nitinrajput658" #"linuxfoundation.jfrog.io/magma-docker/"
 docker_user: ""
 docker_pass: ""
-image_version: "latest"
+image_version: "v1.9-asn-file-replace" #"latest"
 optional_arch_postfix: ""
